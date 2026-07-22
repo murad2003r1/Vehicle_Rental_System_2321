@@ -153,10 +153,3 @@ All vehicles are stored in a single list (`vehicles`), and every rental transact
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-
-## 🙋 Author
-
-**Md Murad Hossain**
-Digital Marketing Specialist | CSE (Cybersecurity) Student
-
-If you found this project useful, consider giving it a ⭐ on GitHub!
